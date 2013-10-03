@@ -1,2 +1,4 @@
+SecondRound/Driver.class
 SecondRound/TokenizingMapper.class
-SecondRound/WordCount.class
+SecondRound/SecondRoundReducer.class
+SecondRound/SecondRoundMapper.class

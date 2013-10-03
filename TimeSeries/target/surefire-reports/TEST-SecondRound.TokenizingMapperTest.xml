@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.279" errors="0" skipped="0" tests="1" name="SecondRound.TokenizingMapperTest">
+<testsuite failures="0" time="0.281" errors="0" skipped="0" tests="1" name="SecondRound.TokenizingMapperTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib"/>
@@ -20,7 +20,7 @@
     <property name="basedir" value="/Users/yingchaoliu/Desktop/mapreduce/TimeSeries"/>
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="surefire.real.class.path" value="/Users/yingchaoliu/Desktop/mapreduce/TimeSeries/target/surefire/surefirebooter246063648961727706.jar"/>
+    <property name="surefire.real.class.path" value="/Users/yingchaoliu/Desktop/mapreduce/TimeSeries/target/surefire/surefirebooter1739497557870765172.jar"/>
     <property name="java.io.tmpdir" value="/var/folders/wb/bz3fb1qx4sl4xcvk8zw3mk980000gn/T/"/>
     <property name="line.separator" value="
 "/>
@@ -44,7 +44,7 @@
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_10.jdk/Contents/Home/jre"/>
-    <property name="sun.java.command" value="/Users/yingchaoliu/Desktop/mapreduce/TimeSeries/target/surefire/surefirebooter246063648961727706.jar /Users/yingchaoliu/Desktop/mapreduce/TimeSeries/target/surefire/surefire8384015053124074104tmp /Users/yingchaoliu/Desktop/mapreduce/TimeSeries/target/surefire/surefire2899046409586886097tmp"/>
+    <property name="sun.java.command" value="/Users/yingchaoliu/Desktop/mapreduce/TimeSeries/target/surefire/surefirebooter1739497557870765172.jar /Users/yingchaoliu/Desktop/mapreduce/TimeSeries/target/surefire/surefire2071541182260008922tmp /Users/yingchaoliu/Desktop/mapreduce/TimeSeries/target/surefire/surefire2105210873769311002tmp"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -62,5 +62,5 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.032" classname="SecondRound.TokenizingMapperTest" name="testMap"/>
+  <testcase time="0.033" classname="SecondRound.TokenizingMapperTest" name="testMap"/>
 </testsuite>
